@@ -1,8 +1,0 @@
-name: Effect_GUI
-version: '${version}'
-main: marumasa.effect_gui.minecraft
-api-version: 1.16
-authors: [ marumasa , toropon ]
-commands:
-  effectgui:
-    description: "エフェクトのGUIを表示する"
